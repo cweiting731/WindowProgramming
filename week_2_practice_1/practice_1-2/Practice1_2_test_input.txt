@@ -1,0 +1,90 @@
+// check sign in page
+abc
+12
+10000000000000000000
+12345
+
+// options page
+0
+65304
+
+1
+20000000000000000
+1
+abc
+1
+20000 // insufficient
+1
+5000 // success
+
+2
+1000000000000000
+2
+abc
+2
+50000 // success
+
+3
+abc
+3
+12
+3
+100000
+
+3
+11000 // have account
+10000 // success no love point
+
+65304
+5
+
+4
+60000 // insufficient
+4
+19999 // success
+
+65304
+5
+
+3
+54321 // new account
+abadfa4651321 // press any word will quit // doesn't create new account
+
+3
+54321
+1 // successfully create account
+10000000000000 // fail but still have new account
+
+3
+54321 // already have account
+10000
+1 // use love point // success
+
+3
+11111 // new account
+1
+10000
+0 // not use love point // success
+
+3
+11111
+3000 // almost all money
+0 // fail
+
+3
+11111
+3000 // almost all money
+1 // success
+
+65304
+5
+
+
+8
+
+
+
+
+
+
+

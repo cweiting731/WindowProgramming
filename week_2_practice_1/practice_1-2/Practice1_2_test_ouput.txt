@@ -1,0 +1,461 @@
+Welcome to NiCKU ATM!
+Please enter your account: abc
+Please enter a 5-digit integer
+Please enter your account: 12
+Account should be a 5-digit integer
+Please enter your account: 1000000000000000000000
+Account should be a 5-digit integer
+Please enter your account: 12345
+Sign in successfully!
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+0
+Balance: 10000
+
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+65304
+Account    Balance    LovePoint
+10000      10000      0
+11000      10000      0
+12000      10000      0
+13000      10000      0
+14000      10000      0
+15000      10000      0
+16000      10000      0
+17000      10000      0
+18000      10000      0
+19000      10000      0
+12345      10000      0
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 20000000000000000000000000
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: abc
+Amount should be an integer from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 20000
+Insufficient balance, please enter an amount from 0 to 10000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 5000
+Withdraw successfully!
+Balance: 5000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+2
+Enter the amount you want to deposit: 100000000000000000000000000
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+2
+Enter the amount you want to deposit: abc
+Amount should be an integer from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+2
+Enter the amount you want to deposit: 50000
+Deposit successfully!
+Balance: 55000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: abc
+Account must be a 5 digit integer
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 12
+Account you want to transfer money must be a 5-digit integer
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 100000
+Account you want to transfer money must be a 5-digit integer
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 11000
+Please enter the amount you want to transper: 10000
+Final cost (+10%) : 11000
+Transfer successfully! Balance: 44000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+65304
+Account    Balance    LovePoint
+10000      10000      0
+11000      20000      0
+12000      10000      0
+13000      10000      0
+14000      10000      0
+15000      10000      0
+16000      10000      0
+17000      10000      0
+18000      10000      0
+19000      10000      0
+12345      44000      0
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+5
+Time                   Options        TransferTo Money     | Balance   Love Point
+2024-09-22 15:52:36    1 - Withdraw              -5000     | 5000      0
+2024-09-22 15:52:49    2 - Deposit               +50000    | 55000     0
+2024-09-22 15:53:23    3 - Transfer   11000      -11000    | 44000     0
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+4
+Enter the amount you want to donate: 60000
+Insufficient balance, please enter an amount from 0 to 44000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+4
+Enter the amount you want to donate: 19999
+Donate successfully!
+Balance: 24001, Love Point: 19
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+65304
+Account    Balance    LovePoint
+10000      10000      0
+11000      20000      0
+12000      10000      0
+13000      10000      0
+14000      10000      0
+15000      10000      0
+16000      10000      0
+17000      10000      0
+18000      10000      0
+19000      10000      0
+12345      24001      19
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+5
+Time                   Options        TransferTo Money     | Balance   Love Point
+2024-09-22 15:52:36    1 - Withdraw              -5000     | 5000      0
+2024-09-22 15:52:49    2 - Deposit               +50000    | 55000     0
+2024-09-22 15:53:23    3 - Transfer   11000      -11000    | 44000     0
+2024-09-22 15:53:46    4 - Donate                -19999    | 24001     19
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 54321
+This is not a exist account, press 1 if you want to open a new account and keep going
+abcadfdfadsf
+Invalid Input
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 54321
+This is not a exist account, press 1 if you want to open a new account and keep going
+1
+successfully create a new account
+Please enter the amount you want to transper: 100000000000000000000000000
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 54321
+Please enter the amount you want to transper: 10000
+You have 19 love points, do you want to use 1 love point to save handling fee
+ Press 1 to use
+ Press 0 to not use
+1
+Final cost (+0%) : 10000
+Transfer successfully! Balance: 14001
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 11111
+This is not a exist account, press 1 if you want to open a new account and keep going
+1
+successfully create a new account
+Please enter the amount you want to transper: 10000
+You have 18 love points, do you want to use 1 love point to save handling fee
+ Press 1 to use
+ Press 0 to not use
+0
+Final cost (+10%) : 11000
+Transfer successfully! Balance: 3001
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 11111
+Please enter the amount you want to transper: 3000
+You have 18 love points, do you want to use 1 love point to save handling fee
+ Press 1 to use
+ Press 0 to not use
+0
+Insufficient balance, you can transper 0 ~ 2728 (+10% handling fee)
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+3
+Enter transfer account: 11111
+Please enter the amount you want to transper: 3000
+You have 18 love points, do you want to use 1 love point to save handling fee
+ Press 1 to use
+ Press 0 to not use
+1
+Final cost (+0%) : 3000
+Transfer successfully! Balance: 1
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+65304
+Account    Balance    LovePoint
+10000      10000      0
+11000      20000      0
+12000      10000      0
+13000      10000      0
+14000      10000      0
+15000      10000      0
+16000      10000      0
+17000      10000      0
+18000      10000      0
+19000      10000      0
+12345      1          17
+54321      10000      0
+11111      13000      0
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+5
+Time                   Options        TransferTo Money     | Balance   Love Point
+2024-09-22 15:52:36    1 - Withdraw              -5000     | 5000      0
+2024-09-22 15:52:49    2 - Deposit               +50000    | 55000     0
+2024-09-22 15:53:23    3 - Transfer   11000      -11000    | 44000     0
+2024-09-22 15:53:46    4 - Donate                -19999    | 24001     19
+2024-09-22 15:55:25    3 - Transfer   54321      -10000    | 14001     18
+2024-09-22 15:55:43    3 - Transfer   11111      -11000    | 3001      18
+2024-09-22 15:56:04    3 - Transfer   11111      -3000     | 1         17
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+4 -> Donate
+5 -> History
+8 -> Exit
+
+8

@@ -1,0 +1,188 @@
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+abc
+Please enter an integer number
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+9
+There is no option
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+100000000000000000000
+There is no option
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: -1
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: abc
+Amount should be an integer from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 100000000000000000000000
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 5000
+Withdraw successfully!
+Balance: 5000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+2
+Enter the amount you want to deposit: 100001
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+2
+Enter the amount you want to deposit: 1000000000000000000
+Please enter an amount from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+2
+Enter the amount you want to deposit: abc
+Amount should be an integer from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+2
+Enter the amount you want to deposit: 5000
+Deposit successfully!
+Balance: 10000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+3
+Enter transfer account: avc
+Account should be an integer
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+3
+Enter transfer account: 30
+Enter transfer amount: abc
+Amount should be an integer from 0 to 100000
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+3
+Enter transfer account: 30
+Enter transfer amount: 10000
+Final Cost (+10%): 11000
+Insufficient balance! the remaining balance is 10000, you can transfer money from 0 to 9090 (+10% handling fee)
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+3
+Enter transfer account: 30
+Enter transfer amount: 1000
+Final Cost (+10%): 1100
+Transfer successfully!
+Balance: 8900
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
+
+1
+Enter the amount you want to withdraw: 10000
+Insufficient balance, please enter an amount from 0 to 8900
+=============================================
+Please select option to execute.
+0 -> Show Balance
+1 -> Withdraw Money
+2 -> Deposit Money
+3 -> Transfer Money
+8 -> Exit
